@@ -25,3 +25,53 @@ body{
     width: 1140px;
     margin: 0 auto;
 }
+
+header  {
+    background-color: #5454D4;
+}
+
+.navbar .container{
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav_list{
+    display: flex;
+    align-items: center;
+}
+
+.nav_link{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.navbar_link{
+    margin: 0px 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    transition: .3s;
+}
+
+.navbar_link:hover{
+    color: #191950;
+}
+
+.cart_link{
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.cart_link:hover{
+    color: #191950;
+}
+
+.cart_img{
+    margin-left: 10px;
+}

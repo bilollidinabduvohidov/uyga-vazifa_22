@@ -335,9 +335,51 @@ section{
 }
 
 .enjoy_photo{
-    width: 400px;   
+    width: 400px;
 }
 
 .enjoy_photos{
     width: 550x;
+}
+
+.are{
+    background-image: url(/img/BG\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+
+.are_title{
+    position: absolute;
+    bottom: 30%;
+    left: 10%;
+}
+
+.are_text{
+    font-size: 60px;
+    color: white;
+    width: 50%;
+    margin-bottom: 30px;
+}
+
+.are_suptext{
+    font-size: 20px;
+    width: 38%;
+    line-height: 35px;
+    margin-bottom: 25px;
+    color: white;
+}
+
+.are_link{
+    padding: 10px 40px;
+    border: 1px solid rgba(0, 0, 0, 0.172);
+    color: white;
+    transition: .3s;
+    border-radius: 7px;
+}
+
+.are_link:hover{
+    background-color: #FEDC5A;
+    color: black;
 }

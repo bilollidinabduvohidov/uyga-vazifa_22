@@ -202,6 +202,7 @@ section{
 
 .section_unique{
     display: flex;
+    margin-bottom: 25px;
 }
 
 .section_text{
@@ -222,3 +223,18 @@ section{
     width: 550px;
 }
 
+.unique_photo{
+    width: 50px;
+}
+
+.unique_text{
+    font-size: 20px;
+    color: black;
+    margin-left: 20px;
+}
+
+.unique_suptext{
+    font-size: 17px;
+    color: #696871;
+    margin-left: 20px;
+}

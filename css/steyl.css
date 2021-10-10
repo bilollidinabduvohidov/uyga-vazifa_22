@@ -191,7 +191,7 @@ header  {
 }
 
 section{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .section .container{
@@ -237,4 +237,74 @@ section{
     font-size: 17px;
     color: #696871;
     margin-left: 20px;
+}
+
+.ever{
+    background-color: #413E65;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.ever_text{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    width: 50%;
+    margin-left: 270px;
+    margin-bottom: 70px;
+}
+
+.ever_list{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+
+.everphoto{
+    width: 40px;
+}
+
+.ever_item{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    padding: 5px 15px;
+    border-radius: 7px;
+}
+
+
+.ever_suptext{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.ever_fuliy{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+
+.ever_itemm{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    padding: 5px 15px;
+    border-radius: 7px;
+}
+
+.ever_humanly{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.ever_iteem{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    padding: 5px 15px;
+    border-radius: 7px;
 }

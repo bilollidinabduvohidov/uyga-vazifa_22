@@ -189,3 +189,36 @@ header  {
     background-color: #FEDC5A;
     color: black;
 }
+
+section{
+    margin-bottom: 100px;
+}
+
+.section .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.section_unique{
+    display: flex;
+}
+
+.section_text{
+    font-size: 60px;
+    width: 90%;
+    margin-bottom: 30px;
+}
+
+.section_suptext{
+    font-size: 20px;
+    width: 88%;
+    line-height: 35px;
+    color: #696871;
+    margin-bottom: 30px;
+}
+
+.section_photo{
+    width: 550px;
+}
+

@@ -308,3 +308,36 @@ section{
     padding: 5px 15px;
     border-radius: 7px;
 }
+
+.enjoy_text{
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.enjjoy_suptext{
+    font-size: 20px;
+    text-align: center;
+    color: #696871;
+    width: 55%;
+    margin-left: 250px;
+    margin-bottom: 40px;
+}
+
+.img_photo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.enjoy_gril{
+    margin-right: 0px;
+}
+
+.enjoy_photo{
+    width: 400px;   
+}
+
+.enjoy_photos{
+    width: 550x;
+}

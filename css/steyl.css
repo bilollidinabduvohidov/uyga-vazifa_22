@@ -383,3 +383,128 @@ section{
     background-color: #FEDC5A;
     color: black;
 }
+
+.say{
+    margin-bottom: 100px;
+}
+
+.say_text{
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.say_suptext{
+    font-size: 20px;
+    text-align: center;
+    width: 47%;
+    margin-left: 300px;
+    margin-bottom: 50px;
+    color: #696871;
+}
+
+.say_list{
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.say_item{
+    border: 1px solid rgba(0, 0, 0, 0.089);
+    margin: 10px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.taylor_photo{
+    width: 40px;
+}
+
+.say__text{
+    font-size: 20px;
+    width: 85%;
+    line-height:40px;
+    margin-bottom: 25px;
+}
+
+.say_title{
+   display: flex;
+   align-items: center;
+}
+
+.taylor_text{
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-bottom: 2px;
+}
+
+.taylor_suptext{
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+.taylor__photos{
+    width: 100px;
+    margin-left: 520px;
+}
+
+.beat{
+    background-color: #5454D4;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.beat .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.beat_text{
+    color: white;
+    font-size: 60px;
+    width: 53%;
+}
+
+.beat_link{
+    color: white;
+    border: 1px solid rgba(0, 0, 0, 0.11);
+    padding: 7px 40px;
+    transition: .3s;
+    border-radius: 5px;
+}
+
+.beat_link:hover{
+    background-color: #FEDC5A;
+    color: black;
+}
+
+footer .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.omega_list{
+    display: flex;
+    align-items: center;
+}
+
+.omega_link{
+    font-size: 24px;
+    color: black;
+    font-weight: bold;
+}
+
+.omega__link{
+    margin: 0px 20px;
+    color: black;
+    font-weight: bold;
+    transition: .3s;
+}
+
+.omega__link:hover{
+    color: #5454D4;
+}
